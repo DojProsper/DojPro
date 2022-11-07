@@ -1,0 +1,1190 @@
+@media (min-width: 320px) and (max-width: 374px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 30px;
+    }
+    img{
+        height: 100%;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+    }
+    .da{
+        margin-top: 8%;
+        color: white;
+    }
+    h5{
+        font-size: 30px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+    }    .pro{
+        color: white;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+    }
+    .fd{
+        margin-top: 20px; 
+        font-size: 30px;       
+    }
+    hr{
+        width: 88%;
+        margin-left: 18px;
+    }
+    #di{
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-left: 65px;
+    }
+}
+
+
+@media (min-width: 375px) and (max-width: 424px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 30px;
+    }
+    img{
+        height: 100%;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+    }
+    .da{
+        margin-top: 10%;
+        color: white;
+    }
+    h5{
+        font-size: 30px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+    }
+    .pro{
+        color: white;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+    }
+    .fd{
+        margin-top: 20px; 
+        font-size: 30px;       
+    }
+    hr{
+        width: 88%;
+        margin-left: 20px;
+    }
+    #di{
+        color: white;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-left: 79px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 500px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 30px;
+    }
+    img{
+        height: 100%;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+    }
+    .da{
+        margin-top: 10%;
+        color: white;
+    }
+    h5{
+        font-size: 30px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 30px;   
+    }
+    hr{
+        width: 88%;
+        margin-left: 23px;
+    }
+    #di{
+        color: white;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-left: 22%;
+
+    }
+}
+
+@media (min-width: 501px) and (max-width: 600px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 32px;
+    }
+    img{
+        height: 100%;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+    }
+    .da{
+        margin-top: 15%;
+        color: white;
+    }
+    h5{
+        font-size: 35px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 35px;   
+    }
+    hr{
+        width: 88%;
+        margin-left: 23px;
+    }
+    #di{
+        color: white;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-left: 22%;
+
+    }
+}
+
+@media (min-width: 601px) and (max-width: 700px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 32px;
+    }
+    img{
+        height: 90vh;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+    }
+    .da{
+        margin-top: 9%;
+        color: white;
+    }
+    h5{
+        font-size: 35px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 35px;   
+    }
+    hr{
+        width: 88%;
+        margin-left: 23px;
+    }
+    #di{
+        color: white;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-left: 22%;
+    }
+    
+}
+
+@media (min-width: 701px) and (max-width: 767px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 35px;
+    }
+    img{
+        height: 90vh;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .da{
+        margin-top: 9%;
+        color: white;
+    }
+    h5{
+        font-size: 40px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 40px;   
+    }
+    hr{
+        width: 88%;
+        margin-left: 23px;
+    }
+    #di{
+        color: white;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-left: 22%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 850px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 35px;
+    }
+    img{
+        height: 110vh;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 38px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .da{
+        margin-top: 2%;
+        color: white;
+    }
+    h5{
+        font-size: 45px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+        margin-bottom: 30px;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 45px;   
+    }
+    hr{
+        width: 90%;
+        margin-left: 35px;
+    }
+    #di{
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 24%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 851px) and (max-width: 950px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 35px;
+    }
+    img{
+        height: 120vh;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 38px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .da{
+        margin-top: 9%;
+        color: white;
+    }
+    h5{
+        font-size: 45px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+        margin-bottom: 30px;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 45px;   
+    }
+    hr{
+        width: 90%;
+        margin-left: 35px;
+    }
+    #di{
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 24%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 951px) and (max-width: 1023px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 38px;
+    }
+    img{
+        height: 120vh;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 38px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .da{
+        margin-top: 9%;
+        color: white;
+    }
+    h5{
+        font-size: 45px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .pro{
+        color: white;
+        margin-bottom: 30px;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 45px;   
+    }
+    hr{
+        width: 90%;
+        margin-left: 35px;
+    }
+    #di{
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 24%;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 85px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 40px;
+    }
+    img{
+        height: 600px;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 15px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 38px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+        font-size: 25px;
+    }
+    .da{
+        margin-top: 2%;
+        color: white;
+    }
+    h5{
+        font-size: 55px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
+    .pro{
+        color: white;
+        margin-bottom: 40px;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 55px;   
+    }
+    hr{
+        width: 90%;
+        margin-left: 45px;
+    }
+    #di{
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 24%;
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 1440px) and (max-width: 2559px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 60px;
+    }
+    .oj{
+        font-size: 60px;
+    }
+    img{
+        height: 1200px;
+        width: 100%;
+    }
+    .we{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 30px;
+        border-radius: 15px;
+        background-color: white;
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 68px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 15px;
+        font-size: 35px;
+    }
+    .da{
+        margin-top: 1%;
+        color: white;
+    }
+    h5{
+        font-size: 70px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 45px;
+        font-size: 35px;
+    }
+    .pro{
+        color: white;
+        margin-bottom: 40px;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 35px;
+    }
+    .fd{
+        margin-top: 20px;     
+        font-size: 70px;   
+    }
+    hr{
+        width: 90%;
+        margin-left: 98px;
+    }
+    #di{
+        color: white;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-left: 24%;
+        font-size: 35px;
+    }
+}
+
+@media (min-width: 2560px) and (max-width: 3000px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(11, 31, 85);
+        margin-top: 80px;
+    }
+    header{
+        display: flex;
+        color: white;
+        padding: 15px 20px;
+    }
+    .fa-pied-piper-alt{
+        font-size: 105px;
+    }
+    .oj{
+        font-size: 100px;
+    }
+    img{
+        height: 1200px;
+        width: 100%;
+    }
+    .we{
+        font-size: 45px;
+        font-family: cursive;
+    }
+    #bad{
+        font-size: 60px;
+    }
+    .top{
+        background-color: rgba(11, 31, 85, 0.932);
+    }
+    .redbtn{
+        font-size: 35px;
+        border-radius: 10px;
+        background-color: white;
+        
+    }
+    .redbtn:hover{
+        color: white;
+    }
+    .navbar-brand{
+        display: flex;
+        color: white;
+    }
+    .navbar-brand:hover{
+        color: white;
+    }
+    h4{
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 85px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: rgba(0, 0, 0, 0.952);
+    }
+    .tro{
+        font-family: cursive;
+        margin-bottom: 55px;
+        font-size: 55px;
+    }
+    .da{
+        margin-top: 1%;
+        color: white;
+    }
+    h5{
+        font-size: 90px;
+        margin-left: 7px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    .re{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 45px;
+        font-size: 55px;
+    }
+    .pro{
+        color: white;
+        margin-bottom: 60px;
+    }
+    .any{
+        text-align: center;
+        padding: 0px 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 20px;
+        font-size: 55px;
+    }
+    .fd{
+        margin-top: 40px;     
+        font-size: 100px;   
+    }
+    hr{
+        width: 90%;
+        margin-left: 75px;
+    }
+    #di{
+        color: white;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-left: 24%;
+        font-size: 55px;
+    }
+}
